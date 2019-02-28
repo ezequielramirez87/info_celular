@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Titillium Web', sans-serif;
+}
+#header{
+    margin-top:70px;
+}
+.header-container-left{
+    width: 100%;
+}
+#tetimonial{
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top:40px;
+}
+.info-left img{
+    width: 80%;
+}
+#info-two{
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top:40px;
+}
+footer{
+    background: url(../img/celular3.jpg);
+    width: 100vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    transition: all 1000ms;
+}
+.form{
+    background: #292929;
+    opacity: 0.7;
+}
